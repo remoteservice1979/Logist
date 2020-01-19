@@ -2,6 +2,7 @@
   "name": "signature-pad",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://remoteservice1979.github.io/Lowes/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
