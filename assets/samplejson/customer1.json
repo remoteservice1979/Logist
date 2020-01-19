@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "name": "document1",
+  "email": "Anilkumar@lowes.com",
+  "phone": "123456789",
+  "city": "bangalore",
+  "state": "karnataka",
+  "country": "India",
+  "organization": "Company 1",
+  "jobProfile": "Sr. Solution Architect",
+  "additionalInfo": "Has Bought a lot of products before and a high Value Customer",
+  
+}
